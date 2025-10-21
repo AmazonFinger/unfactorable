@@ -1,0 +1,25 @@
+{
+    "name": "Abigail Chen",
+    "age": 35,
+    "address": {
+        "street": "Erica Inlet",
+        "city": "Chloehaven",
+        "state": "New Mexico",
+        "zip": "99864"
+    },
+    "contact": {
+        "phone": "(863)695-2554x0701",
+        "servicePhone": "800331693"
+    },
+    "birthday": "1990-19-03",
+    "ip": "169.200.132.82",
+    "foo": "bar",
+    "profile": {
+        "about": "Send mean understand.\nReal part kitchen cover between vote wear. Finish raise member measure bad above seek. Picture decision return call concern many sport.",
+        "bio": "Arrive program candidate your talk stage thousand policy. Attack month political you eight.\nKid how structure. Threat enter church I truth top."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}

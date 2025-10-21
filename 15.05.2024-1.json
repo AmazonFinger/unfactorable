@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Taylor",
+    "age": 110,
+    "address": {
+        "street": "Lori Cliffs",
+        "city": "New Amanda",
+        "state": "Connecticut",
+        "zip": "77992"
+    },
+    "contact": {
+        "phone": "(971)802-8360x4173",
+        "servicePhone": "800628378"
+    },
+    "birthday": "1915-30-12",
+    "ip": "69.200.137.126",
+    "foo": "bar",
+    "profile": {
+        "about": "Instead none anything use. Region stage sport.\nBuy nation green would improve success continue. Begin whose soldier affect. Type score break arrive.",
+        "bio": "Green describe affect stage. Film activity say believe capital down include.\nSeek expect seem police system write. Between third doctor adult."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}

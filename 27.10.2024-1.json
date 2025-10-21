@@ -1,0 +1,25 @@
+{
+    "name": "Jasmine Lane",
+    "age": 4,
+    "address": {
+        "street": "Spencer Ports",
+        "city": "Port Faithview",
+        "state": "Alabama",
+        "zip": "83115"
+    },
+    "contact": {
+        "phone": "001-617-764-4084x222",
+        "servicePhone": "800653691"
+    },
+    "birthday": "2021-30-04",
+    "ip": "132.80.220.89",
+    "foo": "bar",
+    "profile": {
+        "about": "Mean hundred court.\nAway story certain continue possible dark. Foot among whole role industry.\nInterest Democrat let. Natural thought remember significant when project low case.",
+        "bio": "Million course character peace century rich. Live and off test. Own news throw major."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}

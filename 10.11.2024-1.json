@@ -1,0 +1,25 @@
+{
+    "name": "Shari Hernandez",
+    "age": 43,
+    "address": {
+        "street": "Bailey Mall",
+        "city": "New Karen",
+        "state": "Wyoming",
+        "zip": "04621"
+    },
+    "contact": {
+        "phone": "867-598-4127",
+        "servicePhone": "800060128"
+    },
+    "birthday": "1982-15-09",
+    "ip": "22.240.73.61",
+    "foo": "bar",
+    "profile": {
+        "about": "Perform power Republican accept. When nation sometimes environment will reach young get. Economy director scene indicate seat consider.\nWrite tend or number. Benefit save assume him might.",
+        "bio": "Partner know none energy make. Possible machine show military society cause. Rich its pretty as.\nBed toward behavior from close. Everybody eight body ability."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}

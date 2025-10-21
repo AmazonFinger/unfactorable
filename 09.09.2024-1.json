@@ -1,0 +1,25 @@
+{
+    "name": "Sally Gordon",
+    "age": 3,
+    "address": {
+        "street": "Amanda Creek",
+        "city": "Littleburgh",
+        "state": "North Dakota",
+        "zip": "72639"
+    },
+    "contact": {
+        "phone": "993.280.9090x6558",
+        "servicePhone": "800836573"
+    },
+    "birthday": "2022-26-09",
+    "ip": "107.171.102.241",
+    "foo": "bar",
+    "profile": {
+        "about": "Down record fight matter. Against appear produce both tough.\nMight response rich box parent. Charge walk because song kitchen. Stock resource clearly visit claim with.",
+        "bio": "Matter authority realize force. Travel all stand stand ahead newspaper rich Mr."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}

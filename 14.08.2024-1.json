@@ -1,0 +1,25 @@
+{
+    "name": "Mary Diaz",
+    "age": 71,
+    "address": {
+        "street": "Butler Drives",
+        "city": "Perezview",
+        "state": "Maine",
+        "zip": "33509"
+    },
+    "contact": {
+        "phone": "001-832-894-9673x492",
+        "servicePhone": "800321761"
+    },
+    "birthday": "1954-07-04",
+    "ip": "85.216.78.149",
+    "foo": "bar",
+    "profile": {
+        "about": "Per picture so career if likely. Make check stand cause meeting.\nCup movie as TV stop such them. Father story nation week statement traditional.",
+        "bio": "Area decade discussion argue dinner. Politics successful break direction participant mouth everybody. Need piece job modern yeah reflect but."
+    },
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}

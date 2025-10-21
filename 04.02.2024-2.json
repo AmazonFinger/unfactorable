@@ -1,0 +1,25 @@
+{
+    "name": "Paula Graham",
+    "age": 34,
+    "address": {
+        "street": "Gonzales Village",
+        "city": "Courtneyberg",
+        "state": "Ohio",
+        "zip": "72642"
+    },
+    "contact": {
+        "phone": "364-542-1352x446",
+        "servicePhone": "800092043"
+    },
+    "birthday": "1991-28-02",
+    "ip": "222.32.253.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Growth never sure option shoulder best plan effect. Including above particular simple safe cause serve task.\nDifference arm consumer front. Effort authority low. Yard simple worker far glass agency.",
+        "bio": "Around throw pick herself painting kind. Daughter wish few source hospital experience. Raise area food sense.\nSince white wind series indeed. Every tonight apply fast."
+    },
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}

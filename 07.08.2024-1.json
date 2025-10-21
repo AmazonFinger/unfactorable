@@ -1,0 +1,25 @@
+{
+    "name": "Wendy Spencer",
+    "age": 69,
+    "address": {
+        "street": "Chris Drive",
+        "city": "South Katherine",
+        "state": "Connecticut",
+        "zip": "37989"
+    },
+    "contact": {
+        "phone": "5646031517",
+        "servicePhone": "800278885"
+    },
+    "birthday": "1956-04-05",
+    "ip": "46.171.96.26",
+    "foo": "bar",
+    "profile": {
+        "about": "Hair sound collection customer director how. Vote nor detail strong nature. Word different if professor student.\nInside child option maintain theory wall series. Forward realize another cut reduce.",
+        "bio": "Important commercial finally attorney college vote. According rather scene sure writer. Population about then professor."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}

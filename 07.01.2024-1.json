@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Rodriguez",
+    "age": 78,
+    "address": {
+        "street": "Jorge Camp",
+        "city": "Jonesstad",
+        "state": "Arizona",
+        "zip": "50567"
+    },
+    "contact": {
+        "phone": "001-674-922-7602x45724",
+        "servicePhone": "800946276"
+    },
+    "birthday": "1947-01-03",
+    "ip": "185.105.143.175",
+    "foo": "bar",
+    "profile": {
+        "about": "Class clear day our whom. Fast week truth owner kitchen their pattern.\nHuman knowledge board professor. Kid main character difficult culture. Address sport play record sign find.",
+        "bio": "Teacher mother rock cover. Day with participant price.\nWe series near hit report significant. Field continue degree tonight add likely sure so. Million although very land I behind sport."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}

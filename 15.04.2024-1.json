@@ -1,0 +1,25 @@
+{
+    "name": "Deborah Hall",
+    "age": 112,
+    "address": {
+        "street": "Jasmin Trafficway",
+        "city": "Cherylstad",
+        "state": "New Mexico",
+        "zip": "32737"
+    },
+    "contact": {
+        "phone": "(552)434-2481",
+        "servicePhone": "800325222"
+    },
+    "birthday": "1913-19-02",
+    "ip": "177.131.43.114",
+    "foo": "bar",
+    "profile": {
+        "about": "She month station personal. Have town drive pick.\nWeek second science threat value high success.\nWho nation response game. Condition rise so control your about position capital. Build dark day.",
+        "bio": "Contain image citizen step cultural could detail. Consumer list international food. Smile four tend well.\nMovement boy cold quickly size. Realize modern social challenge green act."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}

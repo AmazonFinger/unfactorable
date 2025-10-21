@@ -1,0 +1,25 @@
+{
+    "name": "Katherine Allison",
+    "age": 94,
+    "address": {
+        "street": "Martinez Knolls",
+        "city": "New Jamie",
+        "state": "Kansas",
+        "zip": "07256"
+    },
+    "contact": {
+        "phone": "(670)928-9910",
+        "servicePhone": "800567473"
+    },
+    "birthday": "1931-29-08",
+    "ip": "157.94.226.172",
+    "foo": "bar",
+    "profile": {
+        "about": "Reach conference same time economic yourself shake. Surface great plan able. Fast score factor change little just country.",
+        "bio": "Kid future business skin speak.\nStar themselves find someone successful street.\nMuch until themselves southern even worker network none. Look south last within. Those energy century."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}

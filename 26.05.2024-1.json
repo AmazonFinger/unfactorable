@@ -1,0 +1,25 @@
+{
+    "name": "Julia Harrington",
+    "age": 56,
+    "address": {
+        "street": "Chang Trail",
+        "city": "Mooreberg",
+        "state": "Idaho",
+        "zip": "39196"
+    },
+    "contact": {
+        "phone": "001-253-444-3506",
+        "servicePhone": "800749295"
+    },
+    "birthday": "1969-19-10",
+    "ip": "59.40.129.10",
+    "foo": "bar",
+    "profile": {
+        "about": "Character section pay project marriage team color should. Stand thing term tend we history. Per me into admit discussion determine easy.",
+        "bio": "Real report cultural well pay. Commercial effect show compare area far nearly.\nData message long position responsibility current. Challenge again ball once certainly parent."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}

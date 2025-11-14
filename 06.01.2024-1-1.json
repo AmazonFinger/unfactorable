@@ -1,0 +1,25 @@
+{
+    "name": "Rachel Wilson",
+    "age": 4,
+    "address": {
+        "street": "Tammy Drive",
+        "city": "Ronaldfurt",
+        "state": "Hawaii",
+        "zip": "19850"
+    },
+    "contact": {
+        "phone": "+1-314-356-0757",
+        "servicePhone": "800741840"
+    },
+    "birthday": "2021-14-04",
+    "ip": "82.100.92.155",
+    "foo": "bar",
+    "profile": {
+        "about": "Everyone need right start some. Again six cause responsibility gun.\nPlan other carry best international. Sign consider teach those.\nSix a job.",
+        "bio": "Child sound family him. Area material brother throughout. Modern election buy star want main.\nPhysical so everything support likely. Cultural play occur campaign woman young night pattern."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
